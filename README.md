@@ -1,3 +1,3 @@
 # SpringBootApp
- Java Spring Boot App
- Project's frontend repo [here](https://github.com/Aysenur-Tuncer/REACT-APP)
+ Java Spring Boot application.
+ Project's frontend repo [here](https://github.com/Aysenur-Tuncer/REACT-APP).
